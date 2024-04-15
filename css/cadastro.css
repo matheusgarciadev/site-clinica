@@ -19,7 +19,7 @@
    background-color: #40cfff;
 }
 body{
-   background-image: url('./img/nova_nova.jpg'); 
+   background-image: url('../img/nova_nova.jpg'); 
    background-repeat: no-repeat; 
    background-size: cover;
 }
